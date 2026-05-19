@@ -1,0 +1,11 @@
+pip install python-jose passlib[bcrypt] python-multipartid,name,login_time,logout_time
+1,Raksha nivasini,2026-05-18 11:05:13.744529,2026-05-18 11:05:28.225175
+2,Raksha nivasini,2026-05-18 11:48:53.885212,2026-05-18 11:56:39.712670
+3,Raksha nivasini,2026-05-18 11:49:58.109065,2026-05-18 11:57:05.388771
+4,Raksha Nivasini A G,2026-05-18 11:50:29.278912,2026-05-18 11:50:34.433856
+5,Raksha nivasini,2026-05-18 11:56:28.883823,
+6,Raksha nivasini,2026-05-18 12:00:37.203775,
+7,Raksha nivasini,2026-05-18 12:00:51.547120,
+8,Raksha nivasini,2026-05-18 12:01:18.841224,
+9,raksha,12:11 PM,12:11 PM
+10,raksha,12:15 PM,12:15 PM
